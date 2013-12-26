@@ -6,4 +6,5 @@
  * and open the template in the editor.
  */
 echo date("Y-m-d");
+echo "Hola";
 
